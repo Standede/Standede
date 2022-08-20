@@ -12,7 +12,7 @@ I'm a Software Engineer and Tech Sales Expert who currently works as a FrontEnd 
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, FrontEnd Engineer, Tech Sales Expert or UI Engineer (Intern or Junior level).
 - You have an awesome idea you want me to jump on? Feel free to contact me . However, if you have other request or question, i'm still up for it. 
-- 📫 You can [view my portfolio](https://www.notion.so/My-portfolio-141f2603adef4727a0788978073c643c) and you can reach out to me by emailing chiderastanleyamaobi@gmail.com.
+- 📫 You can [view my portfolio](#) and you can reach out to me by emailing chiderastanleyamaobi@gmail.com.
 
 ---
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Standede&show_icons=true&include_all_commits=true&hide_border=true" alt="Stan's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Standede&langs_count=8&layout=compact&hide_border=true" alt="Stan's GitHub stats" /> |
